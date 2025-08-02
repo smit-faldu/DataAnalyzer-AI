@@ -53,7 +53,11 @@ cd dataanalyzer-ai
 
 2. **Install dependencies**
 ```bash
+# Core dependencies (faster install)
 pip install -r requirements.txt
+
+# OR full dependencies (all features)
+pip install -r requirements-full.txt
 ```
 
 3. **Set up environment variables**
